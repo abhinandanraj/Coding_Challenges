@@ -15,7 +15,7 @@
     8. Difference between 3rd power of 14 and 3rd power of 13
     9. Any expression that will result in 0, which does not include multiplication and contains at least 3 arithmetic operators.
     10. Any expression that includes all six arithmetic operators, addition (+), subtraction (-), 
-    multiplication (*), division (/), modulo (%) and power (**)
+    multiplication (*), division (/), modulo (%) and power (**).
 
 [Solution](Coding_Questions/Question_1.py)
 
