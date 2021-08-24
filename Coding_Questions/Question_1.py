@@ -1,8 +1,5 @@
 Write suitable arithmetic expressions for the displayed descriptions.
 
-This is meant as a practice exercise for you to get used to some basic syntax in IDLE.
-So there may be several correct responses for some of the descriptions.
-
 # 1.Sum of 21 and 62
 Solution: 21+62
 
