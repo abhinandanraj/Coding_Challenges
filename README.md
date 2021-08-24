@@ -40,3 +40,17 @@
 [Solution](Coding_Questions/Question_2.py)
 
 ---
+#### Challenge 3
+
+    Write the code that will display the required result for the given dictionary.
+    
+    villians={1:"magneto", 2:"Joker", 3:"Doctor Doom", 5:"Lex Luthor", 9:"Green Goblin", 6:"Loki"}
+       1.Display the length of the dictionary.
+       2.Display the key which has the least value.
+       3.Display the value of the key 9 as well as delete it simultaneously.
+       4.Display all the values in dictionary.
+       5.Delete all the elements in the dictionary while retaining the empty object.
+  
+[Solution](Coding_Questions/Question_3.py)
+
+---
