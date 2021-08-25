@@ -40,3 +40,39 @@
 [Solution](Coding_Questions/Question_2.py)
 
 ---
+#### Challenge 3
+
+    Write the code that will display the required result for the given dictionary.
+    
+    villians={1:"magneto", 2:"Joker", 3:"Doctor Doom", 5:"Lex Luthor", 9:"Green Goblin", 6:"Loki"}
+       1.Display the length of the dictionary.
+       2.Display the key which has the least value.
+       3.Display the value of the key 9 as well as delete it simultaneously.
+       4.Display all the values in dictionary.
+       5.Delete all the elements in the dictionary while retaining the empty object.
+  
+[Solution](Coding_Questions/Question_3.py)
+
+---
+#### Challenge 4
+    Write a short program to help a customer.
+
+    What does the customer want?
+    A power bank which has a charging capacity of at least 10000 mAh and costs less than Rs. 3500.
+
+    What does the store have?
+    A power bank which is 20000 mAh costing Rs. 3400
+
+    Your Challenge
+
+    Write a program which compares the store's power bank with customer requirements and displays a suitable message.
+
+    Display, 'Yes, this power bank is for you!' if both the requirements are met.
+    Display 'No, this doesn't suit your needs.' if either condition is not met.
+    If you want, experiment with different values of capacity and cost to see if your code works for both situations.
+    
+    Note: - Using comparison and logical operators
+  
+[Solution](Coding_Questions/Question_4.py)
+
+---
