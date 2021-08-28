@@ -100,3 +100,15 @@
 [Solution](Coding_Questions/Question_6.py)
 
 ---
+#### Challenge 7
+    It's your chance to transform yourself into Harry Potter! 
+    Define a function called IPotter which will replace the name Harry with your name in the following string:
+    Looking Slughorn straight in the eye, Harry leant forwards a little.
+    
+    'I am the Chosen One. I have to kill Voldemort. I need that memory.'
+    'You are the Chosen One?'
+    'Of course I am,' said Harry calmly.
+  
+[Solution](Coding_Questions/Question_7.py)
+
+---
