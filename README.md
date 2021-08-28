@@ -1,6 +1,5 @@
 # Coding_Challenges
 ---
-
 #### Challenge 1
 
     Write suitable arithmetic expressions for the displayed descriptions.
