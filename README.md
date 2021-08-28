@@ -17,7 +17,7 @@
     10. Any expression that includes all six arithmetic operators, addition (+), subtraction (-), 
     multiplication (*), division (/), modulo (%) and power (**).
 
-[Solution](Coding_Questions/Question_1.py)
+[Solution](Coding_Questions/Question_0001.py)
 
 ---
 #### Challenge 2
@@ -37,7 +37,7 @@
     5.((1,2,3,4))
     6.({1:"one", 2:"two", 3:"three"})
 
-[Solution](Coding_Questions/Question_2.py)
+[Solution](Coding_Questions/Question_0002.py)
 
 ---
 #### Challenge 3
@@ -51,7 +51,7 @@
        4.Display all the values in dictionary.
        5.Delete all the elements in the dictionary while retaining the empty object.
   
-[Solution](Coding_Questions/Question_3.py)
+[Solution](Coding_Questions/Question_0003.py)
 
 ---
 #### Challenge 4
@@ -73,7 +73,7 @@
     
     Note: - Using comparison and logical operators
   
-[Solution](Coding_Questions/Question_4.py)
+[Solution](Coding_Questions/Question_0004.py)
 
 ---
 #### Challenge 5
@@ -88,7 +88,7 @@
 
     Note: For every if else condition, you have to increase the indent.
   
-[Solution](Coding_Questions/Question_5.py)
+[Solution](Coding_Questions/Question_0005.py)
 
 ---
 #### Challenge 6
@@ -97,7 +97,7 @@
     Additional Challenge: Instead of 16, can you make it into a user input number,
     so that the program can generate the multiplication table for any number?
   
-[Solution](Coding_Questions/Question_6.py)
+[Solution](Coding_Questions/Question_0006.py)
 
 ---
 #### Challenge 7
@@ -109,7 +109,7 @@
     'You are the Chosen One?'
     'Of course I am,' said Harry calmly.
   
-[Solution](Coding_Questions/Question_7.py)
+[Solution](Coding_Questions/Question_0007.py)
 
 ---
 #### Challenge 8
@@ -132,7 +132,7 @@
 
     Note: After you have written the required function, keep changing the value of the variable sis to check if your function works for different values.
   
-[Solution](Coding_Questions/Question_8.py)
+[Solution](Coding_Questions/Question_0008.py)
 
 ---
 #### Challenge 9
@@ -148,6 +148,14 @@
     Help Pi impress his nephew with a program that behaves like a pair of dice. 
     Write a basic program using the random module to generate two numbers in the range 1 to 6.
   
-[Solution](Coding_Questions/Question_9.py)
+[Solution](Coding_Questions/Question_0009.py)
 
 ---
+#### Challenge 10
+     Program Details
+     Make a new 'gift' class from the existing 'product' class.
+     Override 'get_price' method to add wrapping charge of Rs. 100 in the price.
+     
+     Note: Open solution to see existing 'product' class.
+  
+[Solution](Coding_Questions/Question_0010.py)
