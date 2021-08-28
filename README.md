@@ -153,8 +153,8 @@
 ---
 #### Challenge 10
      Program Details
-     Make a new 'gift' class from the existing 'product' class.
-     Override 'get_price' method to add wrapping charge of Rs. 100 in the price.
+     1. Make a new 'gift' class from the existing 'product' class.
+     2. Override 'get_price' method to add wrapping charge of Rs. 100 in the price.
      
      Note: Open solution to see existing 'product' class.
   
