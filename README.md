@@ -112,3 +112,26 @@
 [Solution](Coding_Questions/Question_7.py)
 
 ---
+#### Challenge 8
+    Help Pi write a function!
+
+    Pi is in a dilemma. He needs to borrow money from his sister but doesn't want to tell her exactly how much he needs.
+    Pi: "Hey sis. You're looking cool today!"
+    Sis:"What's up Pi…what do you want?"
+    Pi: "Umm, actually I am running short of cash…I need to pay my EMI and…"
+    Sis: "Yeah…yeah…how much?"
+    Pi: "Your wish sis…wait, let me write a function which can help you decide…"
+    Sis: "You and your programming! Make it quick."
+
+    Function Details
+    Pi wants anything between 7000 and 10000 rupees! 
+    So help Pi write a function that will check whether the amount his sister offers to give him (variable, sis) is within the required range of rupees.
+    If the number less than 7000, show the message, "Ahem, can you rethink this number please?".
+    If the number is greater than 10000, show the message, "Wow sis! You are a queen".
+    If the number is within the range, show the message, "Cool, thanks sis! x rupees will certainly help."
+
+    Note: After you have written the required function, keep changing the value of the variable sis to check if your function works for different values.
+  
+[Solution](Coding_Questions/Question_8.py)
+
+---
