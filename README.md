@@ -76,3 +76,18 @@
 [Solution](Coding_Questions/Question_4.py)
 
 ---
+#### Challenge 5
+    Write the donut program to accommodate multiple discount slabs using multiple if-else statements. 
+    Assume that the price per donut is Rs. 105.50 and 36 were purchased.
+
+    Discount Slabs
+    Amount > Rs.10000, 10% Discount
+    Amount > Rs. 5000, 5% Discount
+    Amount > Rs. 2000, 2% Discount
+    Amount > Rs.1000, 1% Discount
+
+    Note: For every if else condition, you have to increase the indent.
+  
+[Solution](Coding_Questions/Question_5.py)
+
+---
