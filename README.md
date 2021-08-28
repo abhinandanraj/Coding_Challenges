@@ -92,7 +92,7 @@
 
 ---
 #### Challenge 6
-    Write a program to print the multiplication table of 16 upto 16 * 12 using the 'while' loop.
+    Write a program to print the multiplication table of 16 upto 16 * 10 using the 'while' loop.
 
     Additional Challenge: Instead of 16, can you make it into a user input number,
     so that the program can generate the multiplication table for any number?
