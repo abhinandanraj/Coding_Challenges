@@ -135,3 +135,19 @@
 [Solution](Coding_Questions/Question_8.py)
 
 ---
+#### Challenge 9
+    Pi's nephew is visiting and wants to play ludo with him.
+
+    Nephew: "Where's the ludo board? I left it here last time…"
+    Pi: "Umm, did you look in that shelf?"
+    Nephew: "Oh..found it! Come on…let's play! I want red! Oh…where's the dice? 
+    It's lost…no wonder mamma keeps saying you are careless! Ha..ha…"
+    Pi: "Stop laughing brat! Wait, I'll make a cool dice for you."
+
+    Program Details
+    Help Pi impress his nephew with a program that behaves like a pair of dice. 
+    Write a basic program using the random module to generate two numbers in the range 1 to 6.
+  
+[Solution](Coding_Questions/Question_9.py)
+
+---
