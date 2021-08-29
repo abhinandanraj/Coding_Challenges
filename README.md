@@ -101,6 +101,7 @@
 ---
 #### Challenge 7
     It's your chance to transform yourself into Harry Potter! 
+    
     Define a function called IPotter which will replace the name Harry with your name in the following string:
     Looking Slughorn straight in the eye, Harry leant forwards a little.
     
@@ -144,8 +145,8 @@
     Pi: "Stop laughing brat! Wait, I'll make a cool dice for you."
 
     Program Details
-    Help Pi impress his nephew with a program that behaves like a pair of dice. 
-    Write a basic program using the random module to generate two numbers in the range 1 to 6.
+    1.Help Pi impress his nephew with a program that behaves like a pair of dice. 
+    2.Write a basic program using the random module to generate two numbers in the range 1 to 6.
   
 [Solution](Coding_Questions/Question_0009.py)
 
