@@ -27,7 +27,6 @@
         2.Press Enter. The interpreter will return the text, which means 3368.5 is a float object.
     
     Problem Statement
-
     Now, it’s your turn. Verify the data type for each of the objects given below using the type() function:
     1.55.50
     2.6+4j
