@@ -1,3 +1,4 @@
+#This is Existing 'product' class. Starts from here.
 class product:
     deliveryCharge=50
     def __init__(self,nam="Teddy Bear", prc=500):
@@ -8,8 +9,8 @@ class product:
     def get_price(self):
         return self.price + product.deliveryCharge
     def __str__(self):
-        return "The {} will cost you Rs.{}.".format(self.get_name(),self.get_price())
-
+        return "The {} will cost you Rs.{}.".format(self.get_name(),self.get_price()) # Here 'product' class ends.
+#-----------------------------------------------------------------------------------------------------------------
 class gift(product):
     wrappingCharge=100
     def __init__(self, nam, prc):
