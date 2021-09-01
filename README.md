@@ -165,8 +165,8 @@
     Write a function that computes the volume of a sphere given its radius.
     The Volume of a sphere is given as 
     
-    ![radius](https://user-images.githubusercontent.com/42587988/131653296-136b320e-991e-4fae-bc83-b95fed1c49fb.JPG)
-                   
+   <img src ="https://user-images.githubusercontent.com/42587988/131653296-136b320e-991e-4fae-bc83-b95fed1c49fb.JPG" alt="Radius" width="110" height="60">
+             
 [Solution](Coding_Questions/Question_0011.py)
 
 ---
