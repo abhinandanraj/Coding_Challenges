@@ -179,7 +179,7 @@
      No. of Upper Case Characters : 3
      No. of Lower Case Characters : 16  
      
-     Hint: Using .islower() and .isupper() string method
+     Hint: Using .isupper() and .islower() string methods.
   
 [Solution](Coding_Questions/Question_0012.py)
 
