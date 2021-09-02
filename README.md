@@ -170,3 +170,15 @@
 [Solution](Coding_Questions/Question_0011.py)
 
 ---
+#### Challenge 10
+     Program Details
+     Write a Function that accepts a String and calculates the upper case and lower case letters.
+     
+     Sample Input : Hello, I am using Github.
+     Sample Output :
+     No. of Upper Case Characters : 3
+     No. of Lower Case Characters : 16    
+  
+[Solution](Coding_Questions/Question_0012.py)
+
+---
