@@ -186,8 +186,11 @@
 ---
 #### Challenge 13
      Program Details
+     Write a Python Function that takes a list and returns a new list with unique elements of the first list.
      
-  
+     Sample Input : [1,1,1,1,2,2,3,3,3,3,4,5]
+     Sample Output : [1,2,3,4,5]
+     
 [Solution](Coding_Questions/Question_0013.py)
 
 ---
