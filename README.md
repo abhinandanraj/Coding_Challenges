@@ -170,15 +170,27 @@
 [Solution](Coding_Questions/Question_0011.py)
 
 ---
-#### Challenge 10
+#### Challenge 12
      Program Details
      Write a Function that accepts a String and calculates the upper case and lower case letters.
      
      Sample Input : Hello, I am using Github.
      Sample Output :
      No. of Upper Case Characters : 3
-     No. of Lower Case Characters : 16    
+     No. of Lower Case Characters : 16  
+     
+     Hint: Using .isupper() and .islower() string methods.
   
 [Solution](Coding_Questions/Question_0012.py)
+
+---
+#### Challenge 13
+     Program Details
+     Write a Python Function that takes a list and returns a new list with unique elements of the first list.
+     
+     Sample Input : [1,1,1,1,2,2,3,3,3,3,4,5]
+     Sample Output : [1,2,3,4,5]
+     
+[Solution](Coding_Questions/Question_0013.py)
 
 ---
