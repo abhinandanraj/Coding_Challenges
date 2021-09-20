@@ -196,7 +196,10 @@
 ---
 #### Challenge 14
      Program Details
+     Write a Python function to multiply all the numbers in a list.
      
+     Sample Input : [1,2,3,-4]
+     Sample Input : -24
      
 [Solution](Coding_Questions/Question_0014.py)
 
