@@ -236,7 +236,7 @@
 [Solution](Coding_Questions/Question_0016.py)
 
 ---
-#### Challenge 16
+#### Challenge 17
      Program Details
      Write a program to calculate power using recursion.
      
