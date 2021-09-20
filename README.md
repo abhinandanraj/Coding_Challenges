@@ -227,12 +227,22 @@
      
      Examples:
      Input : The quick brown fox jumps over the lazy dog
-     Output : Yes
+     Output : True
      Input : abcdefgxyz
-     Output : No
+     Output : False
 
      Hint :- Use .replace() method in a string to help out with dealing with spaces.
          
 [Solution](Coding_Questions/Question_0016.py)
+
+---
+#### Challenge 16
+     Program Details
+     Write a program to calculate power using recursion.
+     
+     Sample Input : N = 4, P = 2
+     Sample Input : 16
+         
+[Solution](Coding_Questions/Question_0017.py)
 
 ---
