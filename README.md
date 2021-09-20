@@ -227,9 +227,9 @@
      
      Examples:
      Input : The quick brown fox jumps over the lazy dog
-     Output : Yes
+     Output : True
      Input : abcdefgxyz
-     Output : No
+     Output : False
 
      Hint :- Use .replace() method in a string to help out with dealing with spaces.
          
