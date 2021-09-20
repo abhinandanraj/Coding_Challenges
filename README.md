@@ -206,6 +206,15 @@
 ---
 #### Challenge 15
      Program Details
+     Write a Python function that checks whether a word or phrase is palindrome or not.
      
+     Note:- A palindrome is word, phrase, or sequence that reads the same backward as forward.
+     E.g.
+     Word - madam, kayak, racecar
+     Phrase - 'nurses run'
      
+     Hint :- Use .replace() method in a string to help out with dealing with spaces.
+         
 [Solution](Coding_Questions/Question_0015.py)
+
+---
