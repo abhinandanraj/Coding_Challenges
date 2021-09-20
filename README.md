@@ -218,3 +218,21 @@
 [Solution](Coding_Questions/Question_0015.py)
 
 ---
+#### Challenge 16
+     Program Details
+     Write a Python function that check whether a string is pangram or not.
+     (Assume the string passed in does not have any punctuation.)
+     
+     Note:- Pangrams are words or sentences containing every letter of the alphabet at least once.
+     
+     Examples:
+     Input : The quick brown fox jumps over the lazy dog
+     Output : Yes
+     Input : abcdefgxyz
+     Output : No
+
+     Hint :- Use .replace() method in a string to help out with dealing with spaces.
+         
+[Solution](Coding_Questions/Question_0016.py)
+
+---
