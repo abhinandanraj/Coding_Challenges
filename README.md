@@ -246,3 +246,10 @@
 [Solution](Coding_Questions/Question_0017.py)
 
 ---
+#### Challenge 18
+     Program Details
+     
+         
+[Solution](Coding_Questions/Question_0018.py)
+
+---
