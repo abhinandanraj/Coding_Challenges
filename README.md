@@ -350,3 +350,10 @@
 [Solution](Coding_Questions/Question_0021.py)
 
 ---
+#### Challenge 22
+     Program Details
+
+         
+[Solution](Coding_Questions/Question_0022.py)
+
+---
