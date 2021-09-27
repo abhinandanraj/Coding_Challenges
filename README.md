@@ -320,6 +320,21 @@
      of orders displayed on the screen (K), respectively.
      The second line consists of N space-separated integers representing the vegan pizza and meat based pizza order numbers of the orders placed by the customers.
      
+     Output:
+     Print a list of space-separated integers representing the first meat based pizza order of every K orders displayed on the screen each time an order is
+     delivered to a customer and print 0 it the screen does not display any meat based pizza order.
+     
+     Constraints:
+     0 <= numofOrders <= 10^6
+     0 <= size <= numofOrders
+     -10^9 <= ordersNum <= 10^9; where orderNum represents the order numbers of the orders placed.
+     
+     Example:
+     Input:
+     6,3
+     -11 -2 19 37 64 -18
+     Output:
+     -11 -2 0 -18
      
 [Solution](Coding_Questions/Question_0021.py)
 
