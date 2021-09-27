@@ -248,7 +248,20 @@
 ---
 #### Challenge 18
      Program Details
+     Write a program to check the strength of a password based on following conditions and 
+     output the type of password as "Too short", "Weak", "Medium" or "Strong".
      
+     Conditions:
+     1) Password should be 8 characters long.
+     2) It should contain at least one uppercase and one lowercase letter.
+     3) It should contain one or more of these special characters: ~, !, @, #, $, %, ^, &, *
+     4) It should contain one or more digits in it.
+     
+     The output is defined as:
+     If the first condition fails, then output = "Too short"
+     If only two conditions including first one is met, then output = "Weak"
+     If only three conditions including first one is met, then output = "Medium"
+     If all four conditions are met, then output = "Strong"
          
 [Solution](Coding_Questions/Question_0018.py)
 
