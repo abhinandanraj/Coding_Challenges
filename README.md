@@ -336,6 +336,17 @@
      Output:
      -11 -2 0 -18
      
+     Explanation:
+     Step 1: At the time of the first display, the order numbers displayed are [-11,-2,19].
+             So, the first displayed meat based pizza order number is -11.
+     Step 2: At the time of the next display, the order numbers displayed are [-2,19,37].
+             So, the first displayed meat based pizza order number is -2.
+     Step 3: At the time of the next display, the order numbers displayed are [19,37,64].
+             Since no meat based pizza order is displayed, the output is 0.
+     Step 4: Similarly, at the time of the next display, the order numbers displayed are [37,64,-18].
+             So, the first displayed meat based pizza order number is -18.
+     So, the output is [-11,-2,0,-18].
+     
 [Solution](Coding_Questions/Question_0021.py)
 
 ---
