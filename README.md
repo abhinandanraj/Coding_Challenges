@@ -317,6 +317,11 @@
      
      Write an algorithm to help Billy make a list of the first meat based pizza order numbers displayed on the screen each time an order is delivered to a customer.
      
+     Input:
+     The first line of the input consists of two space-separated integers - numofOrders and size, representing the total number of orders placed (N) and the number
+     of orders displayed on the screen (K), respectively.
+     The second line consists of N space-separated integers representing the vegan pizza and meat based pizza order numbers of the orders placed by the customers.
+     
      
 [Solution](Coding_Questions/Question_0021.py)
 
