@@ -304,13 +304,11 @@
 ---
 #### Challenge 21
      Program Details
-     A pizza shop makes vegan pizzas as well as meat based pizzas. 
-     The customers place N orders at the shop and their order number gets printed on thier bill.
-     The shop displays K out of N both - vegan and meat based pizza orders on thier display screen at a single time.
-     The pizza shop is very famous and receives many orders. So to avoid confusion, 
-     the vegan pizza orders are displayed as a positive order number and the meat based pizza orders are displayed as a negative order number.
-     All the orders are delivered in the order in which they are displayed on the screen.
-     Each time a displayed order is ready, it is then removed from the display screen and the next order is added to the display at the end.
+     A pizza shop makes vegan pizzas as well as meat based pizzas. The customers place N orders at the shop and their order number gets printed on thier bill.
+     The shop displays K out of N both - vegan and meat based pizza orders on thier display screen at a single time.The pizza shop is very famous and receives many orders. 
+     So to avoid confusion, the vegan pizza orders are displayed as a positive order number and the meat based pizza orders are displayed as a negative order number.
+     All the orders are delivered in the order in which they are displayed on the screen.Each time a displayed order is ready, it is then removed from the display screen and 
+     the next order is added to the display at the end.
      
      A couple has come to eat pizza with their child Billy. Billy is a very naughty child and to keep him busy, 
      his parents tell him to make a list of the first meat nased pizza order number present in each set of K orders displayed on the shop's display scrren.
