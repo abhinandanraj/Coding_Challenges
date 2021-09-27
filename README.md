@@ -266,3 +266,18 @@
 [Solution](Coding_Questions/Question_0018.py)
 
 ---
+#### Challenge 19
+     Program Details
+     Suppose you have an input string S with the letters A B C D in any sequence, 
+     and another input string T which is to be matched inside S. 
+     Near matches are also allowed - where one non-matching character is allowed in identifying a match.
+     
+     Write a program to find the number of occurrences of T in S.
+     
+     For example:
+     Given "AAABCADDBCDDA" and "ABC" as input, the output is 2. 
+     If T's near match is not found within S, the output should be 0.
+     
+[Solution](Coding_Questions/Question_0019.py)
+
+---
