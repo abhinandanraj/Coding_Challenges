@@ -352,7 +352,16 @@
 ---
 #### Challenge 22
      Program Details
-
+     Create a bank account class that has two attributes:
+        > Owner
+        > Balance 
+     and Two methods:
+        > Deposit
+        > Withdraw
+     Note: Withdrawals may not exceed the available balance.
+     
+     Instantiate your class, make several deposits and withdrawals, and test to make sure to account can't be overdrawn.
+     
          
 [Solution](Coding_Questions/Question_0022.py)
 
