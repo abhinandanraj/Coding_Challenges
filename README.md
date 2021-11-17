@@ -1,4 +1,10 @@
 # Coding_Challenges
+
+## Note :- Anyone can contribute.<br>
+### Step 1: - Add questions in readme in given/same format.<br>
+### Step 2: - Also Add Solutions of these questions in same format in existing folder.<br>
+### Step 3: - Questions will be in only Python Language.<br>
+
 ---
 #### Challenge 1
 
