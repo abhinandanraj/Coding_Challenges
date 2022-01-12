@@ -372,3 +372,4 @@
 [Solution](Coding_Questions/Question_0022.py)
 
 ---
+### Challenge 23
