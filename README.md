@@ -1,11 +1,20 @@
 # Coding_Challenges
 
-## Note :- Anyone can contribute.<br>
-### Step 1: - Add questions in readme in given/same format.<br>
-### Step 2: - Also Add Solutions of these questions in same format in existing folder.<br>
-### Step 3: - Questions will be in only Python Language.<br>
+## Note :- Anyone can contribute.
+### Step 1: - Add questions in readme in given/same format.
+### Step 2: - Also Add Solutions of these questions in same format in existing folder.
+### Step 3: - Questions will be in only Python Language.
 
 ---
+
+# 500+ Python Coding Questions
+
+| S.N            | Problem Name                                                                                        | Solution     |
+|:-------------------:|------------------------------------------------------------------------------------------------------|:----------------:|
+| 001               | []() ||
+
+---
+
 #### Challenge 1
 
     Write suitable arithmetic expressions for the displayed descriptions.
